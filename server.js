@@ -14,7 +14,7 @@ app.use(
       "http://localhost:8082",
       "http://localhost:3000",
       "http://localhost:5173",
-      "https://book-gx-back.vercel.app",
+      "https://book-gx-front.vercel.app",
     ],
     credentials: true,
   })
